@@ -7,7 +7,7 @@ cask "devsweep" do
   desc "Developer-focused disk cleaner"
   homepage "https://github.com/jbaker00/DevSweep-macOS"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "DevSweep.app"
 
