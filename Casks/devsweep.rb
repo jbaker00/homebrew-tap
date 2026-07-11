@@ -1,6 +1,6 @@
 cask "devsweep" do
-  version "0.1"
-  sha256 "6303962cbf832b441826e2e83a66a2a5e8dee10b7d85970924bd2a218a91493b"
+  version "0.2"
+  sha256 "efa81f07fdaf3756756cbe441aa6b7d3fad554f49474b02f14c11473db7933fa"
 
   url "https://github.com/jbaker00/DevSweep-macOS/releases/download/v#{version}/DevSweep-#{version}.dmg"
   name "DevSweep"
